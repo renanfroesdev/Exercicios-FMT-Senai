@@ -1,2 +1,5 @@
-# Exec-FMT-Senai
- Repositório de resoluções dos exercícios
+# Exercícios-Floripa Mais Tec - Senai - Turma Fitness
+ 
+ Repositório criado para as resoluções dos exercícios
+
+ @RenanFroesDev
